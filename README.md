@@ -339,5 +339,5 @@ Distributed under the MIT License. See [`LICENSE`](LICENSE) for more information
 
 <div align="center">
   <br />
-  <i>Built for high-performance teams who value focus, privacy, and speed. 🚀</i>
+  <i>Built for high-performance teams who value focus and speed. 🚀</i>
 </div>
